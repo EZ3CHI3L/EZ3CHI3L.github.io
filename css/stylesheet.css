@@ -1,0 +1,29 @@
+body
+{
+    background-image: url("../img/noise.png");
+    background-color: #F7F7F7;
+}
+
+p.lewis
+{
+    position: relative;
+    top: 50%;
+    transform: translateY(50%);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50em;
+    word-wrap: break-word;
+    animation: fadein 7s;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 100;
+    line-height: 20px;
+}
+
+@keyframes fadein {
+    from {opacity: 0;}
+    to   {opacity: 1;}
+}
