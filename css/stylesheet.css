@@ -2,6 +2,9 @@ body
 {
     background-image: url("../img/noise.png");
     background-color: #F7F7F7;
+    font-family: Open Sans;
+    font-weight: 300;
+    font-size: 15px;
 }
 
 p.lewis
@@ -15,12 +18,6 @@ p.lewis
     width: 50em;
     word-wrap: break-word;
     animation: fadein 7s;
-    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
-    font-size: 14px;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 100;
-    line-height: 20px;
 }
 
 @keyframes fadein {
