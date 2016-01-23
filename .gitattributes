@@ -1,3 +1,2 @@
 audio/gorecki.ogg filter=lfs diff=lfs merge=lfs -text
-img/matthew.jpg filter=lfs diff=lfs merge=lfs -text
 img/noise.png filter=lfs diff=lfs merge=lfs -text
