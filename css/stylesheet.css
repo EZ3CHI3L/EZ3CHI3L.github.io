@@ -4,7 +4,7 @@ body
     background-color: #F7F7F7;
     font-family: Open Sans;
     font-weight: 300;
-    font-size: 15px;
+    font-size: 12px;
 }
 
 p.lewis
@@ -17,7 +17,7 @@ p.lewis
     margin-right: auto;
     width: 50em;
     word-wrap: break-word;
-    animation: fadein 7s;
+    animation: fadein 15s;
 }
 
 @keyframes fadein {
