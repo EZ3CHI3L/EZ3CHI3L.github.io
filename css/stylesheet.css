@@ -2,7 +2,7 @@ body
 {
     background-image: url("../img/noise.png");
     background-color: #F7F7F7;
-    font-family: Open Sans;
+    font-family: Lora;
     font-weight: 300;
     font-size: 12px;
 }
@@ -27,7 +27,6 @@ img.fleur
 p.lewis
 {
     position: relative;
-    top: 50%;
     transform: translateY(50%);
     display: block;
     margin-left: auto;
@@ -35,9 +34,10 @@ p.lewis
     width: 50em;
     word-wrap: break-word;
     animation: fadein 15s;
+    opacity: 0.5;
 }
 
 @keyframes fadein {
     from {opacity: 0;}
-    to   {opacity: 1;}
+    to   {opacity: 0.5;}
 }
