@@ -13,9 +13,9 @@ body
     left: 0px;
     width: 100%;
     height: 100%;
-    background-image: url("https://a.pomf.cat/jpycak.jpg");
+    background-image: url("img/koln.jpg");
     background-size: cover;
-    animation: fade 5s;
+    animation: fade 10s;
 }
 
 #noise
@@ -25,9 +25,9 @@ body
     left: 0px;
     width: 100%;
     height: 100%;
-    background-image: url("https://a.pomf.cat/kxmkau.png");
+    background-image: url("img/noise.png");
     background-repeat: repeat;
-    animation: fade 5s;
+    animation: fade 10s;
 }
 
 #master
@@ -50,7 +50,7 @@ body
 
 }
 
-#centerpiece a
+a
 {
     outline: none;
 }
@@ -76,9 +76,45 @@ body
     border: 1px solid rgba(255, 255, 255, 0.4);
 }
 
-#text p
+
+.generictext
 {
     color: rgba(255, 255, 255, 0.8);
+}
+
+#navbar
+{
+    position: fixed;
+    bottom: 0;
+    z-index: 100;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-top: 1px solid rgba(255, 255, 255, 0.4);
+}
+
+#navbar ul
+{
+    margin: 0;
+    padding: 4px;
+}
+
+#navbar li
+{
+    display: inline;
+}
+
+#navbar a
+{
+    color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+    text-decoration: none;
+    margin: 10px;
+}
+
+#navbar img
+{
+    width: 24px;
+    height: 24px;
 }
 
 @keyframes fade
