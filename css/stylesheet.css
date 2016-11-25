@@ -27,6 +27,7 @@ body
     height: 100%;
     background-image: url("https://a.pomf.cat/kxmkau.png");
     background-repeat: repeat;
+    animation: fade 5s;
 }
 
 #master
