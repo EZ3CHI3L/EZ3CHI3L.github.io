@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/ezechiel
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ez3chi3l.github.io
+  * I am ezechiel (https://keybase.io/ezechiel) on keybase.
+  * I have a public key ASBRGdPZ_Z0VqELMkK3iUVgyqIKlCI0V_IGMVrNTa4HCvgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205119d3d9fd9d15a842cc90ade2515832a882a5088d15fc818c56b3536b81c2be0a",
+      "host": "keybase.io",
+      "kid": "01205119d3d9fd9d15a842cc90ade2515832a882a5088d15fc818c56b3536b81c2be0a",
+      "uid": "d7600cd9e34622421b77dc552fd07919",
+      "username": "ezechiel"
+    },
+    "merkle_root": {
+      "ctime": 1507316202,
+      "hash": "3803867b8d6c05e7a7b228c6d9ee8c5de5fb25e9b93040d045354584fb96f95e7d284179f3fc59185ca881432860c2b0517abe4b19f715128a62b7400164578a",
+      "hash_meta": "e74d6209ffa7b7ce1a586a58f8059ac04a28c0e986c3b9325de44a5c012b47de",
+      "seqno": 1529479
+    },
+    "service": {
+      "hostname": "ez3chi3l.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.33"
+  },
+  "ctime": 1507316214,
+  "expire_in": 504576000,
+  "prev": "99a756386131a05b253358f86956a5a05ae4b2e8623b818c32b0f05b32f27c7c",
+  "seqno": 26,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgURnT2f2dFahCzJCt4lFYMqiCpQiNFfyBjFazU2uBwr4Kp3BheWxvYWTFA0t7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNTExOWQzZDlmZDlkMTVhODQyY2M5MGFkZTI1MTU4MzJhODgyYTUwODhkMTVmYzgxOGM1NmIzNTM2YjgxYzJiZTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNTExOWQzZDlmZDlkMTVhODQyY2M5MGFkZTI1MTU4MzJhODgyYTUwODhkMTVmYzgxOGM1NmIzNTM2YjgxYzJiZTBhIiwidWlkIjoiZDc2MDBjZDllMzQ2MjI0MjFiNzdkYzU1MmZkMDc5MTkiLCJ1c2VybmFtZSI6ImV6ZWNoaWVsIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTA3MzE2MjAyLCJoYXNoIjoiMzgwMzg2N2I4ZDZjMDVlN2E3YjIyOGM2ZDllZThjNWRlNWZiMjVlOWI5MzA0MGQwNDUzNTQ1ODRmYjk2Zjk1ZTdkMjg0MTc5ZjNmYzU5MTg1Y2E4ODE0MzI4NjBjMmIwNTE3YWJlNGIxOWY3MTUxMjhhNjJiNzQwMDE2NDU3OGEiLCJoYXNoX21ldGEiOiJlNzRkNjIwOWZmYTdiN2NlMWE1ODZhNThmODA1OWFjMDRhMjhjMGU5ODZjM2I5MzI1ZGU0NGE1YzAxMmI0N2RlIiwic2Vxbm8iOjE1Mjk0Nzl9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiZXozY2hpM2wuZ2l0aHViLmlvIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzMifSwiY3RpbWUiOjE1MDczMTYyMTQsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiOTlhNzU2Mzg2MTMxYTA1YjI1MzM1OGY4Njk1NmE1YTA1YWU0YjJlODYyM2I4MThjMzJiMGYwNWIzMmYyN2M3YyIsInNlcW5vIjoyNiwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEAR4PRsgQQygC6eYezMw9JitnbfjTLve5WRZH/DCmicxgHp+3au5SNNk57N4cpJjJL4qb63rgtuETiKW8fOrTsAqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgpNU5Q/GKLdk03bqaXJI8wHBS23l8otlKucGSvQsKTyyjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ezechiel
+
+==================================================================
