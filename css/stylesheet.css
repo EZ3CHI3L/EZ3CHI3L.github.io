@@ -47,7 +47,6 @@ body
     padding: 20px;
     width: 40%;
     height: 350px;
-
 }
 
 a
@@ -115,6 +114,12 @@ a
 {
     width: 24px;
     height: 24px;
+}
+
+#resume
+{
+    position: absolute;
+    left: 20px;
 }
 
 @keyframes fade
